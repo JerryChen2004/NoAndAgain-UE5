@@ -8,3 +8,5 @@ A offline single player FPS PC game
 The game is about man trapped in a building and fighing its way to escape it.
 <br/>
 It also features the "run and gun" gameplay.
+<br/>
+Player date are local saved.
